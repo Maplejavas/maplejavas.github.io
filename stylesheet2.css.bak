@@ -18,7 +18,7 @@
 	background-color: rgba(255, 255, 255, 0.4);
   float: left;
   width: 40%;
-  padding:20px;
+  padding:25px;
 	margin:100px;
 }
 .text2 {
@@ -35,6 +35,8 @@
   vertical-align:middle;
   width: 30%;
   height: 130%;
+  padding:80px;
+  top:50%;
 }
 
 .row {
@@ -73,7 +75,7 @@
   padding:20px;
 	vertical-align:middle;
 }
-.mid {
+.mid2 {
 	display: block;
 	background-color: rgba(255, 255, 255, 0.4);
 	background-size:30px 150px;

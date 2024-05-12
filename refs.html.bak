@@ -23,7 +23,7 @@
 <div class="group">
   <div class="images">
   </br></br>
-    <img style="float: right;" src="Images/doodle.png" alt="Drawn by Kszs - https://twitter.com/trpgsa" width="300" height="800""/>
+    <img style="float: right;" src="Images/Refs/doodle.webp" alt="Drawn by Kszs - https://twitter.com/trpgsa" width="300" height="800""/>
   </div>
   </br></br></br></br>
   <div class="text">
@@ -63,7 +63,7 @@
 		ScrollReveal().reveal('.mid');
 	</script>
    <div class="ref">
-    <img src="Images/Refs/ref.png" alt="Main Reference" style="width:100%">
+    <img data-enlargable src="Images/Refs/ref.webp" alt="Main Reference" style="width:100%">
   </div>
   		<script>
 		ScrollReveal().reveal('.ref');
@@ -81,7 +81,7 @@
 <div class="row">
   <div class="column">
 	<div class="tooltip-wrap">
-	<img data-enlargable src="https://i.imgur.com/CNAXfbq.jpg" alt="Avaloki - https://www.fiverr.com/avaloki " style="width:100%">
+	<img data-enlargable src="Images/Refs/r1.webp" alt="Avaloki - https://www.fiverr.com/avaloki " style="width:100%">
 		<div class="tooltip-content">
 		<a href="https://www.fiverr.com/avaloki">Avaloki</a>
 		</div> 
@@ -89,7 +89,7 @@
   </div>
   <div class="column">
 	<div class="tooltip-wrap">
-	<img data-enlargable src="https://i.imgur.com/0XYLqca.png" alt="BurntGreenTea - https://twitter.com/Burnt_Green_Tea" style="width:100%">
+	<img data-enlargable src="Images/Refs/r2.webp" alt="BurntGreenTea - https://twitter.com/Burnt_Green_Tea" style="width:100%">
 		<div class="tooltip-content">
 		<a href="https://twitter.com/Burnt_Green_Tea">BurntGreenTea</a>
 		</div> 
@@ -97,7 +97,7 @@
   </div>
   <div class="column">
 	<div class="tooltip-wrap">
-	<img data-enlargable src="https://i.imgur.com/ebc7Dh4.png" alt="Kszs - https://twitter.com/trpgsa " style="width:100%">
+	<img data-enlargable src="Images/Refs/r3.webp" alt="Kszs - https://twitter.com/trpgsa " style="width:100%">
 		<div class="tooltip-content">
 		<a href="https://twitter.com/trpgsa">Kszs</a>
 		</div> 
@@ -110,7 +110,7 @@
 <div class="row">
   <div class="column">
 	<div class="tooltip-wrap">
-	<img data-enlargable src="https://i.imgur.com/b2H7dYt.jpg" alt="Fluffy2sphere - https://twitter.com/Fluffy2Sphere " style="width:100%">
+	<img data-enlargable src="Images/Refs/r4.webp" alt="Fluffy2sphere - https://twitter.com/Fluffy2Sphere " style="width:100%">
 		<div class="tooltip-content">
 		<a href="https://twitter.com/Fluffy2S">Fluffy2sphere</a>
 		</div> 
@@ -118,7 +118,7 @@
   </div>
   <div class="column">
 	<div class="tooltip-wrap">
-	<img data-enlargable src="https://i.imgur.com/2QMOCs9.jpg" alt="Cigarcat - https://twitter.com/Cigar_cat_art " style="width:100%">
+	<img data-enlargable src="Images/Refs/r5.webp" alt="Cigarcat - https://twitter.com/Cigar_cat_art " style="width:100%">
 		<div class="tooltip-content">
 		<a href="https://twitter.com/Cigar_cat_art">Cigarcat</a>
 		</div> 
@@ -127,7 +127,7 @@
 
   <div class="column">
 	<div class="tooltip-wrap">
-	<img data-enlargable src="https://i.imgur.com/5WyhMkZ.jpeg" alt="Virus.G - https://twitter.com/VirusG_Draws " style="width:100%">
+	<img data-enlargable src="Images/Refs/r6.webp" alt="Virus.G - https://twitter.com/VirusG_Draws " style="width:100%">
 		<div class="tooltip-content">
 		<a href="https://twitter.com/VirusG_Draws">Virus.G</a>
 		</div> 
@@ -140,7 +140,7 @@
 <div class="row">
   <div class="column">
 	<div class="tooltip-wrap">
-	<img data-enlargable src="https://i.imgur.com/i1kYQgM.jpeg" alt="Fluffy2sphere - https://twitter.com/Fluffy2Sphere " style="width:100%">
+	<img data-enlargable src="Images/Refs/r7.webp" alt="Fluffy2sphere - https://twitter.com/Fluffy2Sphere " style="width:100%">
 		<div class="tooltip-content">
 		<a href="https://twitter.com/Fluffy2S">Fluffy2sphere</a>
 		</div> 
@@ -148,7 +148,7 @@
   </div>
   <div class="column">
 	<div class="tooltip-wrap">
-	<img data-enlargable src="https://i.imgur.com/9BNnLB7.jpeg" alt="SUPERREFLEX - https://twitter.com/SUPERREFLEX_art " style="width:100%">
+	<img data-enlargable src="Images/Refs/r8.webp" alt="SUPERREFLEX - https://twitter.com/SUPERREFLEX_art " style="width:100%">
 		<div class="tooltip-content">
 		<a href="https://twitter.com/SUPERREFLEX_art">SUPERREFLEX</a> 	
 		</div> 
@@ -156,7 +156,7 @@
   </div>
   <div class="column">
 	<div class="tooltip-wrap">
-	<img data-enlargable src="https://i.imgur.com/8zp7mlq.jpg" alt="SilverTsuki - https://twitter.com/SilverTsuki_" style="width:100%">
+	<img data-enlargable src="Images/Refs/r9.webp" alt="SilverTsuki - https://twitter.com/SilverTsuki_" style="width:100%">
 		<div class="tooltip-content">
 		 <a href="https://twitter.com/SilverTsuki_">SilverTsuki</a>
 		</div> 
