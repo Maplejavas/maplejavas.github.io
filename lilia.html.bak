@@ -11,7 +11,7 @@
 				font-family: 'hall_feticaregular';
 							}
 	body {
-	background-image: linear-gradient(to bottom right, rgba(0,235,235,.25), rgba(34, 107, 77, 0.8)) ,url("https://mofuti.me/Images/mofuscroll2.gif");
+	background-image: linear-gradient(to bottom right, rgba(0,235,235,.25), rgba(35, 74, 58, 0.8)) ,url("https://mofuti.me/Images/mofuscroll2.gif");
 	height: 100%;
     margin: 0;
 	background-repeat: repeat;
