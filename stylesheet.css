@@ -7,6 +7,26 @@
 
 }
 
+#test {
+    width: 11px;
+    height: 14px;
+    background: url('Images/bub.jpg');
+}
+
+@-webkit-keyframes rotating {
+    from{
+        -webkit-transform: rotate(0deg);
+    }
+    to{
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+.rotating {
+    -webkit-animation: rotating 2s linear infinite;
+}
+
+
 html, body, .section-button {
     width:100%;
     height:100%;

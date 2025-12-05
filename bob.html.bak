@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<link rel="stylesheet" href="stylesheet.css" type="text/css" charset="utf-8" />
+
 <html>
     <head>
         <title>bob</title>
@@ -16,6 +18,13 @@
 
     <center>
 	 <h1 style="font-size:4em; "> bob gay lol </h1>
+	 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+
+	 <div 
+  class="rotating"
+  style="width: 400px; height: 400px; line-height: 400px; text-align: center;" 
+ ><img src="Images/bub.jpg" alt="bob" width="400" height="400"></div>
+	  
 	</center>
    </body>
 </html>
