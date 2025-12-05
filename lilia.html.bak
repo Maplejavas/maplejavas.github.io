@@ -11,7 +11,7 @@
 				font-family: 'hall_feticaregular';
 							}
 	body {
-	background-image: linear-gradient(to bottom right, rgba(0,235,235,.25), rgba(35, 74, 58, 0.8)) ,url("https://mofuti.me/Images/mofuscroll2.gif");
+	background-image: linear-gradient(to bottom right, rgba(0,235,235,.25), rgba(34, 107, 77, 0.8)) ,url("https://mofuti.me/Images/mofuscroll2.gif");
 	height: 100%;
     margin: 0;
 	background-repeat: repeat;
@@ -35,6 +35,57 @@
 		ScrollReveal().reveal('.ref');
 		<script src="lore.js"></script>
 	</script>
+   </body>
+   
+<div class="row">
+  <div class="column">
+	<div class="tooltip-wrap">
+	<img data-enlargable src="Images/Refs/y1.webp" alt="Blushily - https://twitter.com/Blushily " style="width:100%">
+		<div class="tooltip-content">
+		<a href="https://twitter.com/Blushily">Blushily</a>
+		</div> 
+	</div>
+  </div>
+  <!-- <div class="column">
+	<div class="tooltip-wrap">
+	<img data-enlargable src="Images/Refs/y2.webp" alt="GlitteryPikachu - https://twitter.com/tea_bubbled " style="width:100%">
+		<div class="tooltip-content">
+		<a href="https://twitter.com/tea_bubbled">GlitteryPikachu</a>
+		</div> 
+	</div>
+  </div>
+  
+  -->
+</div>
+			<script>
+		ScrollReveal().reveal('.row');
+	</script>
+	<!--
+<div class="row">
+  <div class="column">
+	<div class="tooltip-wrap">
+	<img data-enlargable src="Images/Refs/y3.webp" alt="Hureemu " style="width:100%">
+		<div class="tooltip-content">
+		Hureemu
+		</div> 
+	</div>
+  </div>
+  <div class="column">
+	<div class="tooltip-wrap">
+	<img data-enlargable src="Images/Refs/y4.webp" alt="camiCR - https://twitter.com/camilitroxCR" style="width:100%">
+		<div class="tooltip-content">
+		 <a href="https://twitter.com/camilitroxCR">camiCR</a>
+		</div> 
+	</div>
+  </div>
+</div> 
+			<script>
+		ScrollReveal().reveal('.row');
+	</script>
+<script src="lore.js"></script>
+</br><br>
+ -->
+<!--<a href="#" class="button">Other Images / Refs</a> -->
    </body>
    
 
