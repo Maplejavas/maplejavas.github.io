@@ -82,9 +82,10 @@
 			<script>
 		ScrollReveal().reveal('.row');
 	</script>
-<script src="lore.js"></script>
+
 </br><br>
  -->
+ <script src="lore.js"></script>
 <!--<a href="#" class="button">Other Images / Refs</a> -->
    </body>
    
