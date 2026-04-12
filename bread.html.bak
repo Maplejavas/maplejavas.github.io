@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Its a proper meal, its called bread and water soup!</title>
+		
+     <meta charset="UTF-8" />
+     
+   </head>
+	<style>
+					body{
+				font-family: 'hall_feticaregular';
+							}
+	body {
+	background-image: linear-gradient(to bottom right, rgba(0,235,235,.25), rgba(0,235,130,1)) ,url("https://mofuti.me/Images/mofuscrollmin.gif");
+	height: 100%;
+    margin: 0;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	height: 1000px
+	}
+	</style>
+   <body style="text-align: center;">
+
+    <center>
+		<video controls autoplay width="1600" height="900" >
+		<source src="bread.mp4" type="video/mp4">
+		</video> 
+	</center>
+   </body>
+</html>
