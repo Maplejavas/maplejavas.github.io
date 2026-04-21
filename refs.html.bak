@@ -33,13 +33,15 @@
 				<h3 style="" data-selector="h3">Female<br>
 				Age : 23
 				</h3>
-				<h5 style="" data-selector="h5">Personality: Kind, Carefree
+				<h5 style="" data-selector="h5">Personality : Kind, Carefree
 				</br>
-				Blood Type : A</h5>
+				Blood Type : A
+				</br>
+				Birthday : April 21st </h5>
 				
 				<h5 data-selector="h5" style="">
-				Likes: Strawberries, Shoyu Ramen, Farming/simulation games
-				</br>Dislikes: Nuts, Remembering things, RPG games</h5>
+				Likes : Strawberries, Shoyu Ramen, Farming/simulation games
+				</br>Dislikes : Nuts, Remembering things, RPG games</h5>
 				<p style="" data-selector="p">
 				A green fox that likes to hang out with others. Although she has little memory of her past,
 				</br>making memories makes her happy to be around with others.<br>
@@ -63,7 +65,7 @@
 		ScrollReveal().reveal('.mid');
 	</script>
    <div class="ref">
-    <img data-enlargable src="Images/Refs/ref.webp" alt="Main Reference" style="width:100%">
+    <img data-enlargable src="Images/Refs/ref.png" alt="Main Reference" style="width:100%">
   </div>
   		<script>
 		ScrollReveal().reveal('.ref');
